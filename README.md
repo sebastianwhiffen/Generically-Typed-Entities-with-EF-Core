@@ -1,6 +1,6 @@
 this repo shows how you can use generically typed entities with ef core
 
-my test here was in response to my current companies unorthadox way of querying different types of entities and how objects with similar purposes have no relation to eachother, despite needing to interact with eachother
+my test here was in response to my current companies unorthodox way of querying different types of entities and how objects with similar purposes have no relation to each other, despite needing to interact with each other
 
 this solution shows how we can have a shared base type for different permutations of the same IRL concept (clients here)
 
